@@ -1,5 +1,7 @@
 # LLM Output PII/Secret Redactor: FastAPI middleware
 
+[![CI](https://github.com/hustlerx01/llm-redactor/actions/workflows/ci.yml/badge.svg)](https://github.com/hustlerx01/llm-redactor/actions/workflows/ci.yml)
+
 > **Lab project.** Every identifier in tests and data is synthetic: Aadhaar/card numbers are generated to pass checksums but aren't real. Built from scratch, with no ML dependencies.
 
 ## Problem
