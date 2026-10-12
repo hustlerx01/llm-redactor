@@ -1,0 +1,15 @@
+== RAW upstream (Ollama qwen2.5:1.5b, no redactor)
+Ravi Kumar, via email ravi.kumar@example.in and phone +91 9876543210, has reported that his UPI payment to ravi99@okaxis failed. His Aadhaar number is 2341 2341 2346 and his card number is 4111 1111 1111 1111.
+
+== THROUGH redactor middleware
+HTTP/1.1 200 OK
+date: Sun, 11 Oct 2026 10:17:22 GMT
+server: uvicorn
+content-type: application/json
+x-redactions: 3
+x-redact-ms: 0.27
+content-length: 124
+
+{"completion": "Customer Ravi Kumar, with Aadhaar [AADHAAR] and card [CARD], reports that his UPI payment to [UPI] failed."}
+== server log
+redacted ['AADHAAR', 'CARD', 'UPI']

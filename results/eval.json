@@ -1,0 +1,145 @@
+{
+  "n_rows": 240,
+  "per_type": {
+    "AADHAAR": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "API_KEY": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "AWS_KEY": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "CARD": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "EMAIL": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "GITHUB_TOKEN": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "IFSC": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "IPV4": {
+      "tp": 15,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.714,
+      "recall": 1.0
+    },
+    "JWT": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PAN": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PHONE_IN": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "UPI": {
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "ALL": {
+      "tp": 180,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.968,
+      "recall": 1.0
+    }
+  },
+  "false_positives": [
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    },
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    },
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    },
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    },
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    },
+    {
+      "text": "Software version 4.12.0.1 is deprecated.",
+      "pred": [
+        "IPV4",
+        "4.12.0.1"
+      ]
+    }
+  ],
+  "false_negatives": [],
+  "latency_us": {
+    "median": 13.5,
+    "p95": 23.9
+  }
+}
