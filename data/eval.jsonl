@@ -1,0 +1,240 @@
+{"text": "From the ticket: contact +91 6065133387 for follow-up.", "entities": [{"type": "PHONE_IN", "value": "+91 6065133387"}]}
+{"text": "Record #573: DOEPZ8612V, verified.", "entities": [{"type": "PAN", "value": "DOEPZ8612V"}]}
+{"text": "Record #622: AJJPG8043Z, verified.", "entities": [{"type": "PAN", "value": "AJJPG8043Z"}]}
+{"text": "I found this in the logs: AKIAPDPF1H3DTLHAIAK5", "entities": [{"type": "AWS_KEY", "value": "AKIAPDPF1H3DTLHAIAK5"}]}
+{"text": "Invalid card test value 4438663227026728.", "entities": []}
+{"text": "I found this in the logs: ghp_ykUeJ85fvMN5ETbB8PkM4BkdgvnmASJU7UIq", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_ykUeJ85fvMN5ETbB8PkM4BkdgvnmASJU7UIq"}]}
+{"text": "I found this in the logs: 5267 7360 2605", "entities": [{"type": "AADHAAR", "value": "5267 7360 2605"}]}
+{"text": "I found this in the logs: rohit.44@example.in", "entities": [{"type": "EMAIL", "value": "rohit.44@example.in"}]}
+{"text": "Sure, the customer's api_key is sk-rOu3rqPT85PtmjHWp5dZ2ZZMzQuRiUbPFsq6AzyV.", "entities": [{"type": "API_KEY", "value": "sk-rOu3rqPT85PtmjHWp5dZ2ZZMzQuRiUbPFsq6AzyV"}]}
+{"text": "Here is the config value you asked for: fatima837@okaxis (store it safely).", "entities": [{"type": "UPI", "value": "fatima837@okaxis"}]}
+{"text": "Record #195: 6019 6556 9817, verified.", "entities": [{"type": "AADHAAR", "value": "6019 6556 9817"}]}
+{"text": "Sure, the customer's ipv4 is 10.96.200.76.", "entities": [{"type": "IPV4", "value": "10.96.200.76"}]}
+{"text": "Here is the config value you asked for: priya.76@example.in (store it safely).", "entities": [{"type": "EMAIL", "value": "priya.76@example.in"}]}
+{"text": "From the ticket: contact WWMPP7547H for follow-up.", "entities": [{"type": "PAN", "value": "WWMPP7547H"}]}
+{"text": "I found this in the logs: eyJhbGciOiJIUzI1NiJ9.W7JDPJesQeqgmULF8vwiQPpg.sNe5muFCvNQtSLjKKxZu9BkaupYoTVPB", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.W7JDPJesQeqgmULF8vwiQPpg.sNe5muFCvNQtSLjKKxZu9BkaupYoTVPB"}]}
+{"text": "Timestamp 1767946127 in epoch seconds.", "entities": []}
+{"text": "Invalid card test value 4379772369292984.", "entities": []}
+{"text": "Record #431: 10.162.67.100, verified.", "entities": [{"type": "IPV4", "value": "10.162.67.100"}]}
+{"text": "Here is the config value you asked for: 6996 4235 3693 7854 (store it safely).", "entities": [{"type": "CARD", "value": "6996 4235 3693 7854"}]}
+{"text": "Sure, the customer's github_token is ghp_Kg7FjvVepwukO49f0TQOU4vCaqnpSewqYgUa.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_Kg7FjvVepwukO49f0TQOU4vCaqnpSewqYgUa"}]}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "From the ticket: contact UKOPO8244V for follow-up.", "entities": [{"type": "PAN", "value": "UKOPO8244V"}]}
+{"text": "I found this in the logs: neha.98@example.in", "entities": [{"type": "EMAIL", "value": "neha.98@example.in"}]}
+{"text": "From the ticket: contact sk-8fXGeUUg5qPoDsqDdg0l3c2sxZRuBVhg2W4ca2iQ for follow-up.", "entities": [{"type": "API_KEY", "value": "sk-8fXGeUUg5qPoDsqDdg0l3c2sxZRuBVhg2W4ca2iQ"}]}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "Reference number 673149864300 is not an Aadhaar.", "entities": []}
+{"text": "I found this in the logs: ghp_dpcDd6xTmrx0DGzO7hRbpxFMCl93ELJwwk15", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_dpcDd6xTmrx0DGzO7hRbpxFMCl93ELJwwk15"}]}
+{"text": "Here is the config value you asked for: 10.33.158.179 (store it safely).", "entities": [{"type": "IPV4", "value": "10.33.158.179"}]}
+{"text": "Sure, the customer's email is priya.49@example.in.", "entities": [{"type": "EMAIL", "value": "priya.49@example.in"}]}
+{"text": "Reference number 918750036915 is not an Aadhaar.", "entities": []}
+{"text": "Invoice INV-277715 total ₹88445.", "entities": []}
+{"text": "Invoice INV-202463 total ₹55869.", "entities": []}
+{"text": "I found this in the logs: 10.78.142.22", "entities": [{"type": "IPV4", "value": "10.78.142.22"}]}
+{"text": "Here is the config value you asked for: sk-UNhshYgFmMmXq1HmwTAskcJF6nS7EvpaaQf6h1KQ (store it safely).", "entities": [{"type": "API_KEY", "value": "sk-UNhshYgFmMmXq1HmwTAskcJF6nS7EvpaaQf6h1KQ"}]}
+{"text": "Here is the config value you asked for: AKIAOEMIGJGK23U0H8WN (store it safely).", "entities": [{"type": "AWS_KEY", "value": "AKIAOEMIGJGK23U0H8WN"}]}
+{"text": "Sure, the customer's ipv4 is 10.122.253.99.", "entities": [{"type": "IPV4", "value": "10.122.253.99"}]}
+{"text": "Sure, the customer's jwt is eyJhbGciOiJIUzI1NiJ9.9OjtR469Y3UPx98aJ3JjhcaK.MzIJ8ftnVV5UwnA5P2GjkloN1qmhlQZK.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.9OjtR469Y3UPx98aJ3JjhcaK.MzIJ8ftnVV5UwnA5P2GjkloN1qmhlQZK"}]}
+{"text": "Call the toll-free line 1800-828-1941.", "entities": []}
+{"text": "From the ticket: contact AKIAZXFQEBEM2IFVHC3D for follow-up.", "entities": [{"type": "AWS_KEY", "value": "AKIAZXFQEBEM2IFVHC3D"}]}
+{"text": "From the ticket: contact QVUPT6491C for follow-up.", "entities": [{"type": "PAN", "value": "QVUPT6491C"}]}
+{"text": "I found this in the logs: 892322602561", "entities": [{"type": "AADHAAR", "value": "892322602561"}]}
+{"text": "From the ticket: contact ghp_UAMPfmCn60AVFWH3x0dGYketTGziX2H4Kblm for follow-up.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_UAMPfmCn60AVFWH3x0dGYketTGziX2H4Kblm"}]}
+{"text": "I found this in the logs: sk-TK0mvUToRIOYE68QwGt2k1Q4JlsgEiVqUZJW6l8R", "entities": [{"type": "API_KEY", "value": "sk-TK0mvUToRIOYE68QwGt2k1Q4JlsgEiVqUZJW6l8R"}]}
+{"text": "Sure, the customer's aws_key is AKIAYJLC90OUP0UREXH6.", "entities": [{"type": "AWS_KEY", "value": "AKIAYJLC90OUP0UREXH6"}]}
+{"text": "From the ticket: contact neha489@okaxis for follow-up.", "entities": [{"type": "UPI", "value": "neha489@okaxis"}]}
+{"text": "Sure, the customer's ifsc is SBIN0544948.", "entities": [{"type": "IFSC", "value": "SBIN0544948"}]}
+{"text": "From the ticket: contact ghp_HA9IR37EK4pEtfz52TcGK5HZKRNjh8WCl8kn for follow-up.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_HA9IR37EK4pEtfz52TcGK5HZKRNjh8WCl8kn"}]}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "I found this in the logs: sk-vrdGoJPyz0pfDCZKCf2FCuhFVPbgzAcJJa0fYM9N", "entities": [{"type": "API_KEY", "value": "sk-vrdGoJPyz0pfDCZKCf2FCuhFVPbgzAcJJa0fYM9N"}]}
+{"text": "Here is the config value you asked for: 10.212.216.180 (store it safely).", "entities": [{"type": "IPV4", "value": "10.212.216.180"}]}
+{"text": "I found this in the logs: fatima.78@example.in", "entities": [{"type": "EMAIL", "value": "fatima.78@example.in"}]}
+{"text": "Invoice INV-372315 total ₹24630.", "entities": []}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "Here is the config value you asked for: +91-9376311656 (store it safely).", "entities": [{"type": "PHONE_IN", "value": "+91-9376311656"}]}
+{"text": "Sure, the customer's upi is ansar657@ybl.", "entities": [{"type": "UPI", "value": "ansar657@ybl"}]}
+{"text": "I found this in the logs: ghp_kgpQprI0Y6VdW8oK2Zyw712llpLuZVSw6LbT", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_kgpQprI0Y6VdW8oK2Zyw712llpLuZVSw6LbT"}]}
+{"text": "Reference number 963655647292 is not an Aadhaar.", "entities": []}
+{"text": "From the ticket: contact 8303911718 for follow-up.", "entities": [{"type": "PHONE_IN", "value": "8303911718"}]}
+{"text": "Record #827: 5842 5135 4271, verified.", "entities": [{"type": "AADHAAR", "value": "5842 5135 4271"}]}
+{"text": "From the ticket: contact ghp_47NYwoQL0lytUSsilUa8S8Kz2X9KclMu6Z9N for follow-up.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_47NYwoQL0lytUSsilUa8S8Kz2X9KclMu6Z9N"}]}
+{"text": "Order ID 275989059077 has shipped.", "entities": []}
+{"text": "From the ticket: contact fatima.74@example.in for follow-up.", "entities": [{"type": "EMAIL", "value": "fatima.74@example.in"}]}
+{"text": "Here is the config value you asked for: neha644@ybl (store it safely).", "entities": [{"type": "UPI", "value": "neha644@ybl"}]}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "Sure, the customer's upi is priya749@okaxis.", "entities": [{"type": "UPI", "value": "priya749@okaxis"}]}
+{"text": "Record #457: eyJhbGciOiJIUzI1NiJ9.zfwo4nQvvxsn8WNHEJ0WPahQ.wCp5PN6Np9cR4uy6Y8hyqIUsb6H0XxGZ, verified.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.zfwo4nQvvxsn8WNHEJ0WPahQ.wCp5PN6Np9cR4uy6Y8hyqIUsb6H0XxGZ"}]}
+{"text": "Sure, the customer's ifsc is ICIC0807836.", "entities": [{"type": "IFSC", "value": "ICIC0807836"}]}
+{"text": "Order ID 290100009234 has shipped.", "entities": []}
+{"text": "From the ticket: contact 6651370985931746 for follow-up.", "entities": [{"type": "CARD", "value": "6651370985931746"}]}
+{"text": "Sure, the customer's ifsc is UTIB0978819.", "entities": [{"type": "IFSC", "value": "UTIB0978819"}]}
+{"text": "I found this in the logs: fatima257@okaxis", "entities": [{"type": "UPI", "value": "fatima257@okaxis"}]}
+{"text": "Here is the config value you asked for: 10.187.88.196 (store it safely).", "entities": [{"type": "IPV4", "value": "10.187.88.196"}]}
+{"text": "Record #216: 2841 2411 8246, verified.", "entities": [{"type": "AADHAAR", "value": "2841 2411 8246"}]}
+{"text": "I found this in the logs: eyJhbGciOiJIUzI1NiJ9.zo5XLU2siDGGfzxGaQp29ZNR.kWGiCklK8KQ39jVUE8wcoWFoeqxocQnH", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.zo5XLU2siDGGfzxGaQp29ZNR.kWGiCklK8KQ39jVUE8wcoWFoeqxocQnH"}]}
+{"text": "Sure, the customer's ipv4 is 10.71.126.71.", "entities": [{"type": "IPV4", "value": "10.71.126.71"}]}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "I found this in the logs: priya.4@example.in", "entities": [{"type": "EMAIL", "value": "priya.4@example.in"}]}
+{"text": "Sure, the customer's email is neha.18@example.in.", "entities": [{"type": "EMAIL", "value": "neha.18@example.in"}]}
+{"text": "I found this in the logs: 442786801127", "entities": [{"type": "AADHAAR", "value": "442786801127"}]}
+{"text": "Here is the config value you asked for: 08328710122 (store it safely).", "entities": [{"type": "PHONE_IN", "value": "08328710122"}]}
+{"text": "I found this in the logs: 3939 9091 6992", "entities": [{"type": "AADHAAR", "value": "3939 9091 6992"}]}
+{"text": "Sure, the customer's pan is JHZPG3414A.", "entities": [{"type": "PAN", "value": "JHZPG3414A"}]}
+{"text": "Here is the config value you asked for: JREPG7888V (store it safely).", "entities": [{"type": "PAN", "value": "JREPG7888V"}]}
+{"text": "Reference number 338658902601 is not an Aadhaar.", "entities": []}
+{"text": "Reference number 663920867808 is not an Aadhaar.", "entities": []}
+{"text": "Here is the config value you asked for: ravi.94@example.in (store it safely).", "entities": [{"type": "EMAIL", "value": "ravi.94@example.in"}]}
+{"text": "Sure, the customer's phone_in is +91-8731781080.", "entities": [{"type": "PHONE_IN", "value": "+91-8731781080"}]}
+{"text": "Record #748: priya144@okaxis, verified.", "entities": [{"type": "UPI", "value": "priya144@okaxis"}]}
+{"text": "I found this in the logs: 5182 6398 2146 5840", "entities": [{"type": "CARD", "value": "5182 6398 2146 5840"}]}
+{"text": "Timestamp 1782405066 in epoch seconds.", "entities": []}
+{"text": "Sure, the customer's api_key is sk-INdMdQgP1bdShACyhJqESjnSROatAQgQHrNMSiA1.", "entities": [{"type": "API_KEY", "value": "sk-INdMdQgP1bdShACyhJqESjnSROatAQgQHrNMSiA1"}]}
+{"text": "Record #201: eyJhbGciOiJIUzI1NiJ9.GJnPQD8vx0d0o2DvJXNMETQx.TChgWQoavw1O9ZsJHxSgc5kFi0TVUAgq, verified.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.GJnPQD8vx0d0o2DvJXNMETQx.TChgWQoavw1O9ZsJHxSgc5kFi0TVUAgq"}]}
+{"text": "Sure, the customer's upi is neha440@okaxis.", "entities": [{"type": "UPI", "value": "neha440@okaxis"}]}
+{"text": "Invalid card test value 4269448695946368.", "entities": []}
+{"text": "Here is the config value you asked for: AKIAXD5KXKQGHO6ACAPC (store it safely).", "entities": [{"type": "AWS_KEY", "value": "AKIAXD5KXKQGHO6ACAPC"}]}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "Here is the config value you asked for: AKIAFG6IZED1IPSQUZUU (store it safely).", "entities": [{"type": "AWS_KEY", "value": "AKIAFG6IZED1IPSQUZUU"}]}
+{"text": "Record #886: eyJhbGciOiJIUzI1NiJ9.hWwJELK8QTARV51Is42BZaHg.byjdQdmrWYksRqj1dSYsnWIcw0CgN3RV, verified.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.hWwJELK8QTARV51Is42BZaHg.byjdQdmrWYksRqj1dSYsnWIcw0CgN3RV"}]}
+{"text": "Sure, the customer's upi is neha532@oksbi.", "entities": [{"type": "UPI", "value": "neha532@oksbi"}]}
+{"text": "I found this in the logs: AKIATP3X5M8PJA0BO8WA", "entities": [{"type": "AWS_KEY", "value": "AKIATP3X5M8PJA0BO8WA"}]}
+{"text": "I found this in the logs: AKIA3QHFKTCNUJFPWZ6D", "entities": [{"type": "AWS_KEY", "value": "AKIA3QHFKTCNUJFPWZ6D"}]}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "Sure, the customer's ifsc is UTIB0677219.", "entities": [{"type": "IFSC", "value": "UTIB0677219"}]}
+{"text": "Sure, the customer's phone_in is 7252880957.", "entities": [{"type": "PHONE_IN", "value": "7252880957"}]}
+{"text": "I found this in the logs: eyJhbGciOiJIUzI1NiJ9.E6D4ccPugT9HO1r1VqLIKlyP.yxLP51eHqy6oHzw03wFYE4MaG4iCkoeG", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.E6D4ccPugT9HO1r1VqLIKlyP.yxLP51eHqy6oHzw03wFYE4MaG4iCkoeG"}]}
+{"text": "Invalid card test value 4818451848947697.", "entities": []}
+{"text": "I found this in the logs: +91-8030564139", "entities": [{"type": "PHONE_IN", "value": "+91-8030564139"}]}
+{"text": "I found this in the logs: AKIAYTGN7P05DJRFCO70", "entities": [{"type": "AWS_KEY", "value": "AKIAYTGN7P05DJRFCO70"}]}
+{"text": "Record #131: 6226 5676 6182 5128, verified.", "entities": [{"type": "CARD", "value": "6226 5676 6182 5128"}]}
+{"text": "Sure, the customer's aadhaar is 734624751071.", "entities": [{"type": "AADHAAR", "value": "734624751071"}]}
+{"text": "From the ticket: contact sk-ZKRClNyXwNb3R41U5iE6Fh4ACceqPuaT3RHXVKUK for follow-up.", "entities": [{"type": "API_KEY", "value": "sk-ZKRClNyXwNb3R41U5iE6Fh4ACceqPuaT3RHXVKUK"}]}
+{"text": "From the ticket: contact FXPPO5246Y for follow-up.", "entities": [{"type": "PAN", "value": "FXPPO5246Y"}]}
+{"text": "Sure, the customer's api_key is sk-8tT9TPrB5y2wDqnDtRH0NzLgaGQ911xJPMMstRgE.", "entities": [{"type": "API_KEY", "value": "sk-8tT9TPrB5y2wDqnDtRH0NzLgaGQ911xJPMMstRgE"}]}
+{"text": "Invoice INV-647923 total ₹15544.", "entities": []}
+{"text": "Reference number 788744956213 is not an Aadhaar.", "entities": []}
+{"text": "Sure, the customer's ipv4 is 10.255.36.136.", "entities": [{"type": "IPV4", "value": "10.255.36.136"}]}
+{"text": "Here is the config value you asked for: JQJPV7691K (store it safely).", "entities": [{"type": "PAN", "value": "JQJPV7691K"}]}
+{"text": "Here is the config value you asked for: SBIN0672946 (store it safely).", "entities": [{"type": "IFSC", "value": "SBIN0672946"}]}
+{"text": "From the ticket: contact ravi.72@example.in for follow-up.", "entities": [{"type": "EMAIL", "value": "ravi.72@example.in"}]}
+{"text": "From the ticket: contact ravi.12@example.in for follow-up.", "entities": [{"type": "EMAIL", "value": "ravi.12@example.in"}]}
+{"text": "I found this in the logs: AKIA1Z5BY1LWNLRR2JCP", "entities": [{"type": "AWS_KEY", "value": "AKIA1Z5BY1LWNLRR2JCP"}]}
+{"text": "I found this in the logs: eyJhbGciOiJIUzI1NiJ9.jlkxMT0hQoAZvUhEREEnLkP1.AbpciKLkiOGc5Kjdkq7lH9zMKOb4UUQ0", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.jlkxMT0hQoAZvUhEREEnLkP1.AbpciKLkiOGc5Kjdkq7lH9zMKOb4UUQ0"}]}
+{"text": "Use the placeholder you@yourcompany for docs.", "entities": []}
+{"text": "Use the placeholder you@yourcompany for docs.", "entities": []}
+{"text": "Invoice INV-128679 total ₹63272.", "entities": []}
+{"text": "From the ticket: contact eyJhbGciOiJIUzI1NiJ9.oVPJypGYYZSsSQd7yyA9YRu9.JdaVqmN3X33C1o6OTTPxWLIVMmXU9msC for follow-up.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.oVPJypGYYZSsSQd7yyA9YRu9.JdaVqmN3X33C1o6OTTPxWLIVMmXU9msC"}]}
+{"text": "Record #256: FZWPQ8611B, verified.", "entities": [{"type": "PAN", "value": "FZWPQ8611B"}]}
+{"text": "Reference number 996114351906 is not an Aadhaar.", "entities": []}
+{"text": "From the ticket: contact 4931 8393 3529 0422 for follow-up.", "entities": [{"type": "CARD", "value": "4931 8393 3529 0422"}]}
+{"text": "Record #550: eyJhbGciOiJIUzI1NiJ9.el9lVGhycBrJqikL2qavDT7j.cj7uMdX7ON1QtFYKJweYTuHo9lHeYGkA, verified.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.el9lVGhycBrJqikL2qavDT7j.cj7uMdX7ON1QtFYKJweYTuHo9lHeYGkA"}]}
+{"text": "Here is the config value you asked for: SBIN0407451 (store it safely).", "entities": [{"type": "IFSC", "value": "SBIN0407451"}]}
+{"text": "From the ticket: contact fatima903@paytm for follow-up.", "entities": [{"type": "UPI", "value": "fatima903@paytm"}]}
+{"text": "I found this in the logs: ghp_KKjK8m1Z4FItlFcfdoMobHEav6NmZivTl6Z2", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_KKjK8m1Z4FItlFcfdoMobHEav6NmZivTl6Z2"}]}
+{"text": "Record #906: 4620 4505 3315, verified.", "entities": [{"type": "AADHAAR", "value": "4620 4505 3315"}]}
+{"text": "I found this in the logs: 5187 9470 5516 9409", "entities": [{"type": "CARD", "value": "5187 9470 5516 9409"}]}
+{"text": "Invoice INV-819335 total ₹30058.", "entities": []}
+{"text": "Sure, the customer's phone_in is 6462704828.", "entities": [{"type": "PHONE_IN", "value": "6462704828"}]}
+{"text": "Record #239: AKIA5W6UYRLBUOBRD47W, verified.", "entities": [{"type": "AWS_KEY", "value": "AKIA5W6UYRLBUOBRD47W"}]}
+{"text": "Call the toll-free line 1800-342-5413.", "entities": []}
+{"text": "From the ticket: contact arjun.1@example.in for follow-up.", "entities": [{"type": "EMAIL", "value": "arjun.1@example.in"}]}
+{"text": "Record #907: arjun.81@example.in, verified.", "entities": [{"type": "EMAIL", "value": "arjun.81@example.in"}]}
+{"text": "From the ticket: contact ghp_CUAk4AF4ywIyg1EY3KPWRokCeZ2csbuq8gev for follow-up.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_CUAk4AF4ywIyg1EY3KPWRokCeZ2csbuq8gev"}]}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "I found this in the logs: 7419283276", "entities": [{"type": "PHONE_IN", "value": "7419283276"}]}
+{"text": "Invoice INV-430738 total ₹64632.", "entities": []}
+{"text": "From the ticket: contact +91 6310518347 for follow-up.", "entities": [{"type": "PHONE_IN", "value": "+91 6310518347"}]}
+{"text": "Reference number 829127990881 is not an Aadhaar.", "entities": []}
+{"text": "Invalid card test value 4465669380118489.", "entities": []}
+{"text": "Record #200: PTYPC8461N, verified.", "entities": [{"type": "PAN", "value": "PTYPC8461N"}]}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "Record #482: 6091 3341 2328 1206, verified.", "entities": [{"type": "CARD", "value": "6091 3341 2328 1206"}]}
+{"text": "From the ticket: contact 297882081210 for follow-up.", "entities": [{"type": "AADHAAR", "value": "297882081210"}]}
+{"text": "Timestamp 1777162674 in epoch seconds.", "entities": []}
+{"text": "Record #854: XFTPS5930M, verified.", "entities": [{"type": "PAN", "value": "XFTPS5930M"}]}
+{"text": "Invalid card test value 4729806865086376.", "entities": []}
+{"text": "Software version 4.12.0.1 is deprecated.", "entities": []}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "Here is the config value you asked for: AKIA094DFRYI0M7P8BYW (store it safely).", "entities": [{"type": "AWS_KEY", "value": "AKIA094DFRYI0M7P8BYW"}]}
+{"text": "Record #825: sk-1Sfsbydk2KX9n2oPoRnrPAGb3X9XRaE6iPlMZaoq, verified.", "entities": [{"type": "API_KEY", "value": "sk-1Sfsbydk2KX9n2oPoRnrPAGb3X9XRaE6iPlMZaoq"}]}
+{"text": "Invalid card test value 4416335658804341.", "entities": []}
+{"text": "Sure, the customer's ipv4 is 10.37.8.151.", "entities": [{"type": "IPV4", "value": "10.37.8.151"}]}
+{"text": "Sure, the customer's card is 4108 8398 2258 7139.", "entities": [{"type": "CARD", "value": "4108 8398 2258 7139"}]}
+{"text": "Invoice INV-459762 total ₹48062.", "entities": []}
+{"text": "From the ticket: contact sk-fowoV3tAY4vxqLsD2hEd3OLL8NeE4mGh3RyHtAd3 for follow-up.", "entities": [{"type": "API_KEY", "value": "sk-fowoV3tAY4vxqLsD2hEd3OLL8NeE4mGh3RyHtAd3"}]}
+{"text": "Here is the config value you asked for: 6441 9866 5240 4157 (store it safely).", "entities": [{"type": "CARD", "value": "6441 9866 5240 4157"}]}
+{"text": "Here is the config value you asked for: 4422 5790 5072 3688 (store it safely).", "entities": [{"type": "CARD", "value": "4422 5790 5072 3688"}]}
+{"text": "I found this in the logs: eyJhbGciOiJIUzI1NiJ9.MM4uG4yAM6SWprz9vsCZiiAM.S4VGt1SJ3uTV7JOnmnNTsRw6RiTP9lGI", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.MM4uG4yAM6SWprz9vsCZiiAM.S4VGt1SJ3uTV7JOnmnNTsRw6RiTP9lGI"}]}
+{"text": "I found this in the logs: SBIN0330958", "entities": [{"type": "IFSC", "value": "SBIN0330958"}]}
+{"text": "From the ticket: contact HDFC0339596 for follow-up.", "entities": [{"type": "IFSC", "value": "HDFC0339596"}]}
+{"text": "Record #457: TKYPO9270N, verified.", "entities": [{"type": "PAN", "value": "TKYPO9270N"}]}
+{"text": "Record #592: UTIB0374545, verified.", "entities": [{"type": "IFSC", "value": "UTIB0374545"}]}
+{"text": "Use the placeholder you@yourcompany for docs.", "entities": []}
+{"text": "Order ID 818870279501 has shipped.", "entities": []}
+{"text": "Here is the config value you asked for: 09724238849 (store it safely).", "entities": [{"type": "PHONE_IN", "value": "09724238849"}]}
+{"text": "Sure, the customer's upi is sneha881@ybl.", "entities": [{"type": "UPI", "value": "sneha881@ybl"}]}
+{"text": "Record #698: ghp_AjjKLLW98g7gKXgYs3I4w4AqyPFKMEclrzjN, verified.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_AjjKLLW98g7gKXgYs3I4w4AqyPFKMEclrzjN"}]}
+{"text": "I found this in the logs: sk-B9EyacImUx8a5uW1HmbRaOUpoS4wtigyGLtke0ct", "entities": [{"type": "API_KEY", "value": "sk-B9EyacImUx8a5uW1HmbRaOUpoS4wtigyGLtke0ct"}]}
+{"text": "Invoice INV-943706 total ₹97275.", "entities": []}
+{"text": "I found this in the logs: 10.145.13.218", "entities": [{"type": "IPV4", "value": "10.145.13.218"}]}
+{"text": "From the ticket: contact HDFC0175186 for follow-up.", "entities": [{"type": "IFSC", "value": "HDFC0175186"}]}
+{"text": "I found this in the logs: sk-Q3vHHSSNgBQUpEwQRPyj10J5NdaP7kG2E2F3keWF", "entities": [{"type": "API_KEY", "value": "sk-Q3vHHSSNgBQUpEwQRPyj10J5NdaP7kG2E2F3keWF"}]}
+{"text": "From the ticket: contact 7414 5868 5011 for follow-up.", "entities": [{"type": "AADHAAR", "value": "7414 5868 5011"}]}
+{"text": "I found this in the logs: 734874016401", "entities": [{"type": "AADHAAR", "value": "734874016401"}]}
+{"text": "Invoice INV-388078 total ₹64430.", "entities": []}
+{"text": "I found this in the logs: 10.104.79.138", "entities": [{"type": "IPV4", "value": "10.104.79.138"}]}
+{"text": "I found this in the logs: 5109379660334191", "entities": [{"type": "CARD", "value": "5109379660334191"}]}
+{"text": "I found this in the logs: sk-UHMHvB4Riv5FwWmk866ZzbooUinUbLGkhxTPYcy4", "entities": [{"type": "API_KEY", "value": "sk-UHMHvB4Riv5FwWmk866ZzbooUinUbLGkhxTPYcy4"}]}
+{"text": "From the ticket: contact ansar490@okaxis for follow-up.", "entities": [{"type": "UPI", "value": "ansar490@okaxis"}]}
+{"text": "I found this in the logs: +91 9697848018", "entities": [{"type": "PHONE_IN", "value": "+91 9697848018"}]}
+{"text": "Sure, the customer's ipv4 is 10.134.110.11.", "entities": [{"type": "IPV4", "value": "10.134.110.11"}]}
+{"text": "Use the placeholder you@yourcompany for docs.", "entities": []}
+{"text": "Record #804: AKIAO7CZE3STUF93AXMS, verified.", "entities": [{"type": "AWS_KEY", "value": "AKIAO7CZE3STUF93AXMS"}]}
+{"text": "From the ticket: contact AKIALBZ299PG3GIHADOI for follow-up.", "entities": [{"type": "AWS_KEY", "value": "AKIALBZ299PG3GIHADOI"}]}
+{"text": "Sure, the customer's jwt is eyJhbGciOiJIUzI1NiJ9.Fcs5PmuGf8gk9XIIaOenQOXn.3RB1gnI1S4VXBP08eVRjbDTvcfedlYqJ.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.Fcs5PmuGf8gk9XIIaOenQOXn.3RB1gnI1S4VXBP08eVRjbDTvcfedlYqJ"}]}
+{"text": "I found this in the logs: UTIB0042232", "entities": [{"type": "IFSC", "value": "UTIB0042232"}]}
+{"text": "Sure, the customer's upi is arjun163@paytm.", "entities": [{"type": "UPI", "value": "arjun163@paytm"}]}
+{"text": "From the ticket: contact 4618398262244472 for follow-up.", "entities": [{"type": "CARD", "value": "4618398262244472"}]}
+{"text": "Sure, the customer's aadhaar is 6060 8835 6155.", "entities": [{"type": "AADHAAR", "value": "6060 8835 6155"}]}
+{"text": "Record #711: ghp_bjLT6jXh2H3x9exT8QzLgvtuikU8BYO9FPul, verified.", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_bjLT6jXh2H3x9exT8QzLgvtuikU8BYO9FPul"}]}
+{"text": "Reference number 970384309883 is not an Aadhaar.", "entities": []}
+{"text": "Here is the config value you asked for: eyJhbGciOiJIUzI1NiJ9.mh72znD0YmTvgWAc7O1RLhX5.CDQL9Gi9FaHVdJ7B1LE7GX66lSLlU0ig (store it safely).", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.mh72znD0YmTvgWAc7O1RLhX5.CDQL9Gi9FaHVdJ7B1LE7GX66lSLlU0ig"}]}
+{"text": "Order ID 363538076597 has shipped.", "entities": []}
+{"text": "I found this in the logs: ghp_Szcz44vSpdVE6r5xbv0Yttr1F2SRg3oitVCX", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_Szcz44vSpdVE6r5xbv0Yttr1F2SRg3oitVCX"}]}
+{"text": "Sure, the customer's pan is PZZPX3780V.", "entities": [{"type": "PAN", "value": "PZZPX3780V"}]}
+{"text": "Here is the config value you asked for: sk-mvAK56Dju3TlXfFvOluOdaCrnWXkKWkFYWXfiNBO (store it safely).", "entities": [{"type": "API_KEY", "value": "sk-mvAK56Dju3TlXfFvOluOdaCrnWXkKWkFYWXfiNBO"}]}
+{"text": "Record #303: eyJhbGciOiJIUzI1NiJ9.0o6qAyCOzBubyRhIaPUNeWVL.cS2ew7GgsYRtMfsW7Cyz0QbEkIoiVzYZ, verified.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.0o6qAyCOzBubyRhIaPUNeWVL.cS2ew7GgsYRtMfsW7Cyz0QbEkIoiVzYZ"}]}
+{"text": "From the ticket: contact HDFC0277063 for follow-up.", "entities": [{"type": "IFSC", "value": "HDFC0277063"}]}
+{"text": "I found this in the logs: 946872343098", "entities": [{"type": "AADHAAR", "value": "946872343098"}]}
+{"text": "Here is the config value you asked for: 10.196.179.247 (store it safely).", "entities": [{"type": "IPV4", "value": "10.196.179.247"}]}
+{"text": "Here is the config value you asked for: rohit.29@example.in (store it safely).", "entities": [{"type": "EMAIL", "value": "rohit.29@example.in"}]}
+{"text": "Here is the config value you asked for: SBIN0975001 (store it safely).", "entities": [{"type": "IFSC", "value": "SBIN0975001"}]}
+{"text": "Timestamp 1792118813 in epoch seconds.", "entities": []}
+{"text": "The SKU is ABCD1234EF and the batch is X9.", "entities": []}
+{"text": "I found this in the logs: ghp_pgdzKJ1FjdxaBfs0QOMEmgbnkOsfE2htYzEF", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_pgdzKJ1FjdxaBfs0QOMEmgbnkOsfE2htYzEF"}]}
+{"text": "Use the placeholder you@yourcompany for docs.", "entities": []}
+{"text": "Timestamp 1790422203 in epoch seconds.", "entities": []}
+{"text": "I found this in the logs: ansar54@oksbi", "entities": [{"type": "UPI", "value": "ansar54@oksbi"}]}
+{"text": "I found this in the logs: 6030 5486 8740 3450", "entities": [{"type": "CARD", "value": "6030 5486 8740 3450"}]}
+{"text": "Here is the config value you asked for: HDFC0168457 (store it safely).", "entities": [{"type": "IFSC", "value": "HDFC0168457"}]}
+{"text": "Build v6.13.5 released.", "entities": []}
+{"text": "Record #786: 10.203.146.161, verified.", "entities": [{"type": "IPV4", "value": "10.203.146.161"}]}
+{"text": "I found this in the logs: 07489638346", "entities": [{"type": "PHONE_IN", "value": "07489638346"}]}
+{"text": "Record #495: sk-w5C9Nr4Ufx0vlhzz9Dr1yS2EZAP4ZkhiSUd82kgA, verified.", "entities": [{"type": "API_KEY", "value": "sk-w5C9Nr4Ufx0vlhzz9Dr1yS2EZAP4ZkhiSUd82kgA"}]}
+{"text": "Build v6.14.7 released.", "entities": []}
+{"text": "Here is the config value you asked for: AKIA7QKXIRHBV1R7EQE5 (store it safely).", "entities": [{"type": "AWS_KEY", "value": "AKIA7QKXIRHBV1R7EQE5"}]}
+{"text": "Here is the config value you asked for: 6905 8147 7005 4119 (store it safely).", "entities": [{"type": "CARD", "value": "6905 8147 7005 4119"}]}
+{"text": "Call the toll-free line 1800-331-4187.", "entities": []}
+{"text": "Here is the config value you asked for: WAYPY2746Y (store it safely).", "entities": [{"type": "PAN", "value": "WAYPY2746Y"}]}
+{"text": "From the ticket: contact +91 6341316475 for follow-up.", "entities": [{"type": "PHONE_IN", "value": "+91 6341316475"}]}
+{"text": "From the ticket: contact 360733754330 for follow-up.", "entities": [{"type": "AADHAAR", "value": "360733754330"}]}
+{"text": "From the ticket: contact eyJhbGciOiJIUzI1NiJ9.xiRUv4EDCwXtFJglPMf1r20i.5ImqU4OeUe5b2GOb0LLzXLn6cJqI5IEP for follow-up.", "entities": [{"type": "JWT", "value": "eyJhbGciOiJIUzI1NiJ9.xiRUv4EDCwXtFJglPMf1r20i.5ImqU4OeUe5b2GOb0LLzXLn6cJqI5IEP"}]}
+{"text": "From the ticket: contact 06331509839 for follow-up.", "entities": [{"type": "PHONE_IN", "value": "06331509839"}]}
+{"text": "Here is the config value you asked for: ravi625@ybl (store it safely).", "entities": [{"type": "UPI", "value": "ravi625@ybl"}]}
+{"text": "Sure, the customer's email is priya.49@example.in.", "entities": [{"type": "EMAIL", "value": "priya.49@example.in"}]}
+{"text": "Here is the config value you asked for: ghp_cBfRBm0Oj1Mqu6U6ZefyJzJu2rHD63aYSNLH (store it safely).", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_cBfRBm0Oj1Mqu6U6ZefyJzJu2rHD63aYSNLH"}]}
+{"text": "Invalid card test value 4333395211179080.", "entities": []}
+{"text": "Here is the config value you asked for: ghp_PIylx4yxlCcqCDqo1rKdjWSQgfQwZIAWLoJd (store it safely).", "entities": [{"type": "GITHUB_TOKEN", "value": "ghp_PIylx4yxlCcqCDqo1rKdjWSQgfQwZIAWLoJd"}]}
+{"text": "Record #415: 6268 3885 1606 0715, verified.", "entities": [{"type": "CARD", "value": "6268 3885 1606 0715"}]}
+{"text": "From the ticket: contact SBIN0404384 for follow-up.", "entities": [{"type": "IFSC", "value": "SBIN0404384"}]}
